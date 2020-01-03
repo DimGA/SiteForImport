@@ -1,0 +1,8 @@
+##Файлы папки tmp
+tmp/
+##Файлы _old/_backup
+*_old
+*_backup
+##Файлы папки tmp Thumbs.db и .DS_Store
+Thumbs.db
+*.DS_Store
